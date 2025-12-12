@@ -13,7 +13,6 @@ This project consists of a React frontend and a Python Flask backend to extract 
 
 Navigate to the `backend` folder:
 
-````markdown
 # End Frame Grabber
 
 A small utility that extracts the last frame from an MP4 video using a React frontend and a Python Flask backend.
@@ -100,4 +99,3 @@ This project is licensed under the MIT License — see the included `LICENSE` fi
 
 Built with ❤️. For more projects and resources, visit https://4w4n.com — thanks for the support!
 
-````
