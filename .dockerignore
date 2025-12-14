@@ -1,0 +1,23 @@
+# Dependencies
+node_modules
+backend/venv
+__pycache__
+*.pyc
+
+# Git
+.git
+.gitignore
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+
+# Build artifacts
+frontend/dist
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

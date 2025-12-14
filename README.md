@@ -50,6 +50,16 @@ A small utility that extracts the last frame from an MP4 video using a React fro
 - Node.js (v14+ recommended) and npm/yarn
 - Python 3.8+
 
+## Docker (Quick Test)
+
+If you just want to test the app without setting up the development environment, use the Docker image:
+
+```bash
+docker run -p 5001:5001 izan2988/4w4n:end-frame-grabber-1.0.0
+```
+
+Then open `http://localhost:5001` in your browser.
+
 ## Quick Start
 
 Clone the repo and run backend and frontend in separate terminals.
